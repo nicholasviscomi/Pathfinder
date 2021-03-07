@@ -1,1 +1,1 @@
-# Pathfinder
+# Maze Solver
